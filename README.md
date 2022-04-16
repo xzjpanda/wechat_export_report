@@ -1,37 +1,27 @@
 # 微信聊天数据导出和年度报告
 
-#### 介绍
+#### 简介
 个人用python开发的微信聊天数据导出和年度报告制作小软件，欢迎大家使用体验和提建议。
 
-#### 软件架构
-软件架构说明
+#### 主要功能
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![功能介绍](tb_mainplot.png)
+![效果展示](annual_postertb_render1.png)
+pdx_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：
+https://mp.weixin.qq.com/s/YFWW7frvkqmLIiNX3PNlpA
+更多详细介绍请微信扫码关注我的公众号查看。
 
 #### 使用说明
+pdx_Wechat_Stats软件使用方法请参考我微信公众号的文章（地址复制到浏览器中访问）：
+https://mp.weixin.qq.com/s/4UjSJ-ZRZU0CKZHKKkOxDg
+或微信搜索“熊猫之星”公众号，关注后点击菜单查看
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+#### tb链接
+PC端：
+https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24240613654.3.3e5978fe2RGpBp&id=668925552938
+移动端：
+![输入图片说明](annual_postertbQRcode.png)
 
 #### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+可以统计你的微信热聊榜top10
