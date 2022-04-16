@@ -5,8 +5,8 @@
 
 #### 主要功能
 
-![主要功能](specification/tb_mainplot.png)#pic_center =50%x50%
-![效果展示](specification/tb_render1.png)#pic_center =50%x50%
+![主要功能](specification/tb_mainplot.png#pic_center =50%x50%)
+![效果展示](specification/tb_render1.png#pic_center =50%x50%)
 pdx_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：  
 https://mp.weixin.qq.com/s/YFWW7frvkqmLIiNX3PNlpA
 更多详细介绍请微信扫码关注我的公众号查看。  
