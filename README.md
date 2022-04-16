@@ -9,7 +9,7 @@
 <img src="specification/tb_mainplot.png" width="50%" height="50%" />
 </div>
 <div align=center>
-<img src="specification/tb_render1.png" width="60%" height="60%" />
+<img src="specification/tb_render1.png" width="70%" height="70%" />
 </div>
 <p>pdX_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：  
 <p>https://mp.weixin.qq.com/s/YFWW7frvkqmLIiNX3PNlpA  
@@ -27,7 +27,9 @@ https://mp.weixin.qq.com/s/4UjSJ-ZRZU0CKZHKKkOxDg
 PC端：  
 https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24240613654.3.3e5978fe2RGpBp&id=668925552938  
 移动端：  
-![](specification/tbQRcode.png)
+<div align=center>
+<img src="specification/tbQRcode.png" width="50%" height="50%" />
+</div> 
 
 #### 特技
 
