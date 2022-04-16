@@ -3,6 +3,11 @@
 #### 简介
 个人用python开发的微信聊天数据导出和年度报告制作小软件，欢迎大家使用体验和提建议。
 
+#### 主程序下载链接
+
+链接：https://pan.baidu.com/s/1FFs5sXYl62Z6MHNtfQsS4g?pwd=6666 
+提取码：6666 
+
 #### 主要功能
 
 <div align=center>
