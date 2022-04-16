@@ -6,7 +6,7 @@
 #### 主要功能
 
 <div align=center>
-<img src="specification/tb_mainplot.png" width="50" height="50" />
+<img src="specification/tb_mainplot.png" width="50%" height="50%" />
 </div>
 ![效果展示](specification/tb_render1.png#pic_center =50%x50%)
 pdx_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：  
