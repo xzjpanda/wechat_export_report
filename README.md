@@ -11,9 +11,9 @@
 <div align=center>
 <img src="specification/tb_render1.png" width="60%" height="60%" />
 </div>
-pdx_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：    
-https://mp.weixin.qq.com/s/YFWW7frvkqmLIiNX3PNlpA  
-更多详细介绍请微信扫码关注我的公众号查看。
+<p>pdX_Wechat_Stats软件能够实现的功能可以参考微信公众号的另一篇文章（地址复制到浏览器中访问）：  
+<p>https://mp.weixin.qq.com/s/YFWW7frvkqmLIiNX3PNlpA  
+<p>更多详细介绍请微信扫码关注我的公众号查看。
 <div align=center>
 <img src="specification/wechatQRcode.jpg" width="50%" height="50%" />
 </div>  
