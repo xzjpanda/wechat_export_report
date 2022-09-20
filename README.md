@@ -28,7 +28,7 @@ pdx_Wechat_Stats软件使用方法请参考我微信公众号的文章（地址�
 https://mp.weixin.qq.com/s/4UjSJ-ZRZU0CKZHKKkOxDg  
 或微信搜索“熊猫之星”公众号，关注后点击菜单查看
 
-#### tb链接
+#### 注册码购买tb链接
 PC端：  
 https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24240613654.3.3e5978fe2RGpBp&id=668925552938  
 移动端：  
